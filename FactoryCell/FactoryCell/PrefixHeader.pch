@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  FactoryCell
+//
+//  Created by 李士杰 on 15/12/14.
+//  Copyright © 2015年 李士杰. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "CKWebImage.h"
+
+#endif /* PrefixHeader_pch */
